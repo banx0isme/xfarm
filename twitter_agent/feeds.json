@@ -1,0 +1,17 @@
+[
+    {
+        "name": "Cointelegraph",
+        "url": "https://cointelegraph.com/rss",
+        "category": "crypto_news"
+    },
+    {
+        "name": "Incrypted",
+        "url": "https://incrypted.com/feed/",
+        "category": "crypto_news"
+    },
+    {
+        "name": "CoinDesk",
+        "url": "https://www.coindesk.com/arc/outboundfeeds/rss/",
+        "category": "crypto_news"
+    }    
+]

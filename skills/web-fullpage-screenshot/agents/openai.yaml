@@ -1,0 +1,3 @@
+interface:
+  display_name: "Web Fullpage Screenshot"
+  short_description: "Full-page website screenshots (Puppeteer + Chrome)"
